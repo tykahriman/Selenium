@@ -71,5 +71,6 @@ public class C03_WindowHandle {
         Assert.assertEquals(expectedIlkSayfaYazi,actualIlkSayfaYazi);
 
         Thread.sleep(3000);
+        //taha yas
     }
 }
